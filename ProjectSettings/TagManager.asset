@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Package
   - DeliverySpot
+  - BoostSpeed
   layers:
   - Default
   - TransparentFX
